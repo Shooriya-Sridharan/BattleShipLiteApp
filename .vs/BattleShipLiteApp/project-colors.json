@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c410110-c825-4f1c-9dd2-d73c15f734f8": {
+      "ProjectGuid": "0c410110-c825-4f1c-9dd2-d73c15f734f8",
+      "DisplayName": "BattleShipLite",
+      "ColorIndex": 0
+    },
+    "2d4ccd00-66e7-4d07-a12e-5f97d01872fc": {
+      "ProjectGuid": "2d4ccd00-66e7-4d07-a12e-5f97d01872fc",
+      "DisplayName": "BattleShipLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

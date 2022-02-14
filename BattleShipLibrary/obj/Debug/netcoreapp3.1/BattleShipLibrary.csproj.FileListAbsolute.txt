@@ -1,0 +1,10 @@
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\bin\Debug\netcoreapp3.1\BattleShipLibrary.deps.json
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\bin\Debug\netcoreapp3.1\BattleShipLibrary.dll
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\bin\Debug\netcoreapp3.1\BattleShipLibrary.pdb
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\obj\Debug\netcoreapp3.1\BattleShipLibrary.csproj.AssemblyReference.cache
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\obj\Debug\netcoreapp3.1\BattleShipLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\obj\Debug\netcoreapp3.1\BattleShipLibrary.AssemblyInfoInputs.cache
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\obj\Debug\netcoreapp3.1\BattleShipLibrary.AssemblyInfo.cs
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\obj\Debug\netcoreapp3.1\BattleShipLibrary.csproj.CoreCompileInputs.cache
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\obj\Debug\netcoreapp3.1\BattleShipLibrary.dll
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLibrary\obj\Debug\netcoreapp3.1\BattleShipLibrary.pdb

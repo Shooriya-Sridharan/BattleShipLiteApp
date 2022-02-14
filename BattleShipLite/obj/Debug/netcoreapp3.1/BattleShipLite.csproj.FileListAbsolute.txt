@@ -1,0 +1,17 @@
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\bin\Debug\netcoreapp3.1\BattleShipLite.exe
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\bin\Debug\netcoreapp3.1\BattleShipLite.deps.json
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\bin\Debug\netcoreapp3.1\BattleShipLite.runtimeconfig.json
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\bin\Debug\netcoreapp3.1\BattleShipLite.runtimeconfig.dev.json
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\bin\Debug\netcoreapp3.1\BattleShipLite.dll
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\bin\Debug\netcoreapp3.1\BattleShipLite.pdb
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\obj\Debug\netcoreapp3.1\BattleShipLite.csproj.AssemblyReference.cache
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\obj\Debug\netcoreapp3.1\BattleShipLite.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\obj\Debug\netcoreapp3.1\BattleShipLite.AssemblyInfoInputs.cache
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\obj\Debug\netcoreapp3.1\BattleShipLite.AssemblyInfo.cs
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\obj\Debug\netcoreapp3.1\BattleShipLite.csproj.CoreCompileInputs.cache
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\obj\Debug\netcoreapp3.1\BattleShipLite.dll
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\obj\Debug\netcoreapp3.1\BattleShipLite.pdb
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\obj\Debug\netcoreapp3.1\BattleShipLite.genruntimeconfig.cache
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\bin\Debug\netcoreapp3.1\BattleShipLibrary.dll
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\bin\Debug\netcoreapp3.1\BattleShipLibrary.pdb
+G:\C# Tim Corey\MiniProject1\BattleShipLiteApp\BattleShipLite\obj\Debug\netcoreapp3.1\BattleShipLite.csproj.CopyComplete
